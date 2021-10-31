@@ -21,7 +21,7 @@
 li{
     cursor: pointer;
 }
-#header{
+#RazerLogo{
     margin-left: 10%;
     margin-top: 2%;
 }
@@ -31,10 +31,17 @@ li{
     cursor: pointer;
 }
 .sIcon{
-    display: block;
     height: 40px;
     width: 40px;
 }
 .sIcon:hover{
+    fill: gray;
+}
+.aIcon{
+    height: 40px;
+    width: 40px;
+    margin-left: 100px;
+}
+.aIcon:hover{
     fill: gray;
 }
