@@ -29,19 +29,36 @@ li{
     height: 112,5px;
     width: 225px;
     cursor: pointer;
+    float: left;
 }
 .sIcon{
-    height: 40px;
-    width: 40px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    float: right;
 }
 .sIcon:hover{
     fill: gray;
 }
 .aIcon{
-    height: 40px;
-    width: 40px;
-    margin-left: 100px;
+    height: 30px;
+    width: 30px;
+    margin-left: 15px;
+    cursor: pointer;
+    float: right;
 }
 .aIcon:hover{
     fill: gray;
+   
+}
+.fIcon{
+    height: 30px;
+    width: 30px;
+    margin-left: 13px;
+    cursor: pointer;
+    float: right;
+}
+.fIcon:hover{
+    fill: gray;
+   
 }
