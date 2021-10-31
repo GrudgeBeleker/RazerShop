@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.TelUl{
+    text-align: right;
+    margin-right: 100px;
+    margin-top:3px;
+}
+.TelUl li{
+    display: inline;
+    margin-left: 3px;
+}
+#TelLi1{
+    font-size:medium;
+}
+#TelLi2{
+    font-size:smaller;
+    color: gray;
+}
+li{
+    cursor: pointer;
+}
