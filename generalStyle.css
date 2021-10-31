@@ -21,3 +21,20 @@
 li{
     cursor: pointer;
 }
+#header{
+    margin-left: 10%;
+    margin-top: 2%;
+}
+#logo{
+    height: 112,5px;
+    width: 225px;
+    cursor: pointer;
+}
+.sIcon{
+    display: block;
+    height: 40px;
+    width: 40px;
+}
+.sIcon:hover{
+    fill: gray;
+}
